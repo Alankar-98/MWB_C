@@ -1,3 +1,5 @@
 # MWB_C
-## All about C
-I am just **learning** how to use the basic features.
+## This repository is to store all the basic programmes related to C
+
+**CONTENTS**
+
