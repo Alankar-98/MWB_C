@@ -10,6 +10,7 @@ void main()
         {
             i += 1;
             continue;
+        //break;
         }
         printf("%d \n", i);
         
